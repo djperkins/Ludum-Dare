@@ -1,2 +1,2 @@
 # Ludum-Dare
-Ludum Dare 33 Game
+Welcome to our Ludum Dare 33 entry, Visit our official website at madpixelgames.net/ld
